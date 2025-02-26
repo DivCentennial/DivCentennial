@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Swift, Kotlin and MERN stack for mobile app development.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Dog Lover
-- 
 
 
 <!---
